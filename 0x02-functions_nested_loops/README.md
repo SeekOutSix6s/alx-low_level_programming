@@ -1,1 +1,2 @@
-alx project on C coding
+0x02-functions_nested_loops
+"projects by ALX"
